@@ -1,0 +1,6 @@
+city,country,temperature,feels_like,humidity,pressure,wind_speed,description,icon,timestamp
+New Delhi,IN,32.77,37.3,55,999,3.81,scattered clouds,03d,2025-07-02 10:27:23
+Mumbai,IN,27.37,31.18,85,1005,8.42,overcast clouds,04d,2025-07-02 10:27:24
+Bengaluru,IN,26.05,26.05,64,1010,8.87,overcast clouds,04d,2025-07-02 10:27:25
+Chennai,IN,33.23,39.74,59,1006,6.52,overcast clouds,04d,2025-07-02 10:27:26
+Kolkata,IN,33.4,40.18,59,998,4.12,broken clouds,04d,2025-07-02 10:27:27
